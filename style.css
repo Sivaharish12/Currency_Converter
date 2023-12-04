@@ -1,7 +1,7 @@
 html,
 body{
    font-family: 'Poppins', sans-serif;
-   background-color:#f5e8ba;
+   background-color:#94e5ff;
    margin: 0;
    padding: 0;
   
@@ -40,7 +40,7 @@ body{
     height: 40px;
     font-size: 1.2em;
     cursor: pointer;
-    background-color:coral;
+    background-color:#80fa21;
     outline: none;
     color: black;
     margin: 0.2em 0;
@@ -70,7 +70,7 @@ body{
   button{
     width: 50%;
     height: 40px;
-    background-color:#ffeba7;
+    background-color:#f3fec1;
     color: #102770;
     border-radius: 10px;
     border: none;
